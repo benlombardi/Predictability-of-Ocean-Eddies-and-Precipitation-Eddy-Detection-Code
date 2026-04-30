@@ -1,5 +1,7 @@
 # Predictability-of-Ocean-Eddies-and-Precipitation-Eddy-Detection-Code
 
+[![DOI](https://zenodo.org/badge/1224041769.svg)](https://doi.org/10.5281/zenodo.19926434)
+
 This repository contains the code used to generate the eddy tracking plot found in _Predictability of ocean eddies and precipitation: High-Resolution Prediction System_ experiments by Small et al.
 
 There are three main steps to running the code to make the plot. 
